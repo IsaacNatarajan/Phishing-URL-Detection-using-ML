@@ -1,1 +1,16 @@
+# =========================================
+# Phishing Website Detection Project
+# Python dependencies required to run all scripts
+# =========================================
+# Data manipulation
+pandas==2.0.3
 
+# Machine learning
+scikit-learn==1.3.0
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.13.2
+
+# UCI ML dataset access
+ucimlrepo==0.2.3
