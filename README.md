@@ -46,7 +46,7 @@ The most important features contributing to phishing detection:
 
 ---
 
-## Example Prediction
+## Prediction
 
 | Test Row | Prediction | Actual |
 |----------|------------|--------|
